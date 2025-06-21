@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm KIRUTHICK B</h1>
 <h3 align="center">🚀 Passionate Software Developer from India | Expertise in Web & Mobile Development, Spring Boot, REST APIs, RDBMS, NoSQL, and Cloud Integration</h3>
 
-<div align="center">
-  <img src="pic.jpg" alt="Kiruthick B" width="200" style="border-radius: 50%;" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiruthick-b&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthick-b" />
