@@ -80,17 +80,23 @@
 
 ## 📈 GitHub Insights
 
+
+<h3 align="center">🚀 GitHub Stats & Insights</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiruthick-b&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiruthick-b&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick-b&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruthick-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruthick-b&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick-b&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
 
 ---
 
