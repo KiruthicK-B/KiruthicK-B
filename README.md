@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm KIRUTHICK B</h1>
 <h3 align="center">🚀 Passionate Software Developer from India | Skilled in Web & Mobile Development, Spring Boot, REST APIs, RDBMS, NoSQL, and Cloud Integration</h3>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiruthick-b&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthick-b" />
 </p>
@@ -27,7 +26,7 @@
 - 🗣️ Fun fact: I naturally connect with people and thrive in collaborative environments!
 
 📫 **Reach Me:** `reach2kiruthick.b@gmail.com`  
-📄 [📁 View My Resume](https://drive.google.com/file/d/1qeW_wRlW3Noa-1dDjtNTrh1p2_FBSb0W/view?usp=sharing)
+[📁 View My Resume](https://drive.google.com/file/d/1qeW_wRlW3Noa-1dDjtNTrh1p2_FBSb0W/view?usp=sharing)
 
 ---
 
@@ -78,8 +77,8 @@
 
 ---
 
-## 📈 GitHub Insights
 
+## 📈 GitHub Insights
 
 <h3 align="center">🚀 GitHub Stats & Insights</h3>
 
@@ -94,9 +93,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick-b&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
 
 ---
 
