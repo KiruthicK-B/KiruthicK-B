@@ -88,9 +88,9 @@
     <td>
       <img src="https://leetcard.jacoblin.cool/KIRUTHICK_B?ext=contest" alt="LeetCode Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-hackerrank-stats.vercel.app/api?husername=kiruthickb_23cse&theme=tokyonight" alt="HackerRank Stats" />
-    </td>
+<!--     <td>
+      <img src="https://github-readme-hackerrank-stats.vercel.app/api?username=kiruthickb_23cse&theme=tokyonight" alt="HackerRank Stats" />
+    </td> -->
   </tr>
   <tr>
     <td>
