@@ -78,21 +78,36 @@
 ---
 
 
-## 📈 GitHub Insights
+<h3 align="center">🚀 GitHub & Coding Platform Stats</h3>
 
-<h3 align="center">🚀 GitHub Stats & Insights</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kiruthick-b&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/KIRUTHICK_B?ext=contest" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-hackerrank-stats.vercel.app/api?husername=kiruthickb_23cse&theme=tokyonight" alt="HackerRank Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/kiruthick-b/kiruthick-b/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+    </td>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick-b&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruthick-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td colspan="2"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiruthick-b&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruthick-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick-b&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
-</p>
 
 
 ---
