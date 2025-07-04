@@ -93,17 +93,15 @@
     </td> -->
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/kiruthick-b/kiruthick-b/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+   <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruthick-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick-b&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruthick-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
+   
     <td colspan="2"></td>
   </tr>
 </table>
