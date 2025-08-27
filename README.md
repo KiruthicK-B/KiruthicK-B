@@ -159,12 +159,6 @@
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon! Stay tuned for technical articles and project insights.
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
 
@@ -172,6 +166,8 @@
 
 **Thank you for visiting! Let's connect and build something amazing together! 🚀**
 
+
+<!-- Option 1: Snake Animation (Classic GitHub Contribution Snake) -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 ---
