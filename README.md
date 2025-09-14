@@ -29,7 +29,7 @@ Hi 👋, I'm KIRUTHICK B
 - 🎯 **Goal**: Building solutions that make a real-world impact
 
 📧 **Contact**: `reach2kiruthick.b@gmail.com`  
-📄 **[View My Resume](https://drive.google.com/file/d/1qeW_wRlW3Noa-1dDjtNTrh1p2_FBSb0W/view?usp=sharing)**
+📄 **[View My Resume](https://drive.google.com/file/d/1oIaB1b2Itjz-ZadCGDiipWP8-GDVAqeI/view?usp=sharing)**
 
 ---
 
