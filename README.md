@@ -103,13 +103,6 @@ Hi 👋, I'm KIRUTHICK B
 
 </details>
 
-<details open>
-<summary><b>⚡ Hardware & Others</b></summary>
-<br>
-
-
-
-</details>
 
 ---
 
