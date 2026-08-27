@@ -1,160 +1,112 @@
-Hi 👋, I'm KIRUTHICK B
-
 <div align="center">
 
-### 🚀 Passionate Software Developer from India
-**Skilled in Full-Stack Development | Spring Boot | Cloud Technologies | Mobile Development**
+# Kiruthick B
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kiruthick-b&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/kiruthick-b)
+### Software Developer — Full-Stack • Cloud • Mobile • AI
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kiruthick-b&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+Building scalable, intelligent, and real-world software solutions.
+
+[![Email](https://img.shields.io/badge/Email-reach2kiruthick.b%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reach2kiruthick.b@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oIaB1b2Itjz-ZadCGDiipWP8-GDVAqeI/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🔥 About Me
+## About
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-🎓 **Software Developer** passionate about building scalable, intelligent applications  
-💡 Full-stack expertise with focus on **enterprise-grade solutions**  
-🌟 Strong background in **web**, **mobile**, and **cloud platforms**
-
-### 💼 Current Focus:
-- 🛠️ **Tech Arsenal**: Spring Boot • Flutter • Firebase • MongoDB • MySQL • REST APIs
-- 🌱 **Learning**: Java Spring Security • DevOps • System Design • Microservices
-- 🧠 **Exploring**: AI/ML Integration • Cloud Architecture • Open Source Contributions
-- 🎯 **Goal**: Building solutions that make a real-world impact
-
-📧 **Contact**: `reach2kiruthick.b@gmail.com`  
-📄 **[View My Resume](https://drive.google.com/file/d/1oIaB1b2Itjz-ZadCGDiipWP8-GDVAqeI/view?usp=sharing)**
+Software developer focused on building scalable, full-stack applications across web, mobile, and cloud. Interested in combining AI, automation, and modern software architecture to solve real-world problems — from backend systems and APIs to intelligent, production-grade workflows.
 
 ---
 
-## 🌐 Let's Connect
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Backend Services**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI & Automation**
+
+![Python](https://img.shields.io/badge/AI%2FML-Integration-8A2BE2?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Systems-black?style=flat-square)
+
+---
+
+## Areas of Interest
+
+| Area | Focus |
+|---|---|
+| **Backend Engineering** | Scalable APIs, Microservices, Spring Boot |
+| **Mobile Development** | Flutter, Cross-platform Apps, Firebase |
+| **Cloud & DevOps** | AWS, Docker, CI/CD |
+| **AI & Intelligent Systems** | AI/ML Integration, Automation, MCP Systems |
+
+---
+
+## Currently Learning
+
+- Spring Security & Enterprise Authentication
+- System Design & Scalable Architecture
+- Microservices & Distributed Systems
+- DevOps & Cloud Architecture
+- AI/ML Integration in Production Applications
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiruthick2506)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30858545)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kiruthick_b)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kiruthickb_23cse)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kiruthickb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_kiruthick_06)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiruthicK-B&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiruthicK-B&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiruthicK-B&layout=compact&hide_border=true)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## What I'm Building Toward
 
-<details open>
-<summary><b>🖥️ Programming Languages & Frameworks</b></summary>
-<br>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Backend Services</b></summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Development Tools & IDEs</b></summary>
-<br>
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-</details>
-
+```
+Full-Stack Applications  →  Cloud-Native Systems  →  Scalable Microservices  →  AI-Powered Applications  →  Real-World Impact
+```
 
 ---
-
-## 📊 GitHub Analytics & Coding Achievements
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kiruthick-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruthick-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://leetcard.jacoblin.cool/KIRUTHICK_B?ext=contest&theme=dark" alt="LeetCode Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
+*"Code is not just written to solve problems — it's crafted to create possibilities."*
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiruthick-b&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-
-<div align="center">
-
-### 💫 "Code is not just written to solve problems — it's crafted to create possibilities."
-
-**Thank you for visiting! Let's connect and build something amazing together! 🚀**
-
-
-<!-- Option 1: Snake Animation (Classic GitHub Contribution Snake) -->
-
----
-
-*⭐ From [KIRUTHICK-B](https://github.com/kiruthick-b) with ❤️*
+Let's build something meaningful. Feel free to explore my repositories and connect.
 
 </div>
